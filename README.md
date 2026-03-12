@@ -1,11 +1,10 @@
-# Rapport de projet Jarnac
+# Rapport du projet Jarnac
 
 ## Auteurs
 
 - Boufouss, Younes, younes.boufouss@universite-paris-saclay.fr, MI1
 - Bouazza, Zakaria, zakaria.bouazza@universite-paris-saclay.fr, MI1
 
-+++
 
 ## Résumé du travail effectué
 
@@ -17,13 +16,11 @@
 - Partie VI: Réalisé dans l'intégralité et entièrement fonctionnelle pour lancer et joueur au JARNAC.
 - Partie VII: Non traitée
 
-+++
 
 ## Organisation du travail
 
 Au sein de notre binôme, nous nous sommes fixés l'objectif d'effectuer toutes les parties individuellement en s'aidant mutuellement. Au final, pour la soutenance, Zakaria présentera les 5 premières parties et Younes présentera la partie 6 car cette partie est la plus conséqente (il s'agit du squelette du jeu JARNAC). Au total nous avons consacrés environ une durée de 10h à 15h de travail.
 
-+++
 
 ## Prise de recul
 
